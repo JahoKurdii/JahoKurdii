@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahokurdii&label=Profile%20views&color=0e75b6&style=flat" alt="jahokurdii" /> </p>
 
-- 🔭 I’m currently working on **Kurd Freedom V2**
-
-- 🌱 I’m currently learning **Python and lua**
-
-- 👨‍💻 All of my projects are available at [My Github](My Github)
-
-- 💬 Ask me about **FiveM Problem i will fix for you**
+- alone 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
